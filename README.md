@@ -2,7 +2,7 @@
 
 A production-ready CRUD (Create, Read, Update, Delete) application built with Go, featuring RESTful APIs, database integration, comprehensive testing, and modern development practices.
 
-*Created by GitHub MCP*
+*Created using GitHub MCP By Claude-4*
 
 ## 🚀 Features
 
